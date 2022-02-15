@@ -80,4 +80,6 @@
    </div><!-- /.container-fluid -->
  </div>
  <!-- /.content -->
- <?php include "partials/scripts.php" ?>
+ <?php
+  include "partials/scripts.php";
+  ?>
